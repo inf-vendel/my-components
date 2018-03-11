@@ -1,0 +1,2 @@
+# my-components
+Weblapfejlesztéshez cuccok.
